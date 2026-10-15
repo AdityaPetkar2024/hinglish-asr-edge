@@ -1,0 +1,31 @@
+{
+  "tag": "ft_small_30h_nrng5",
+  "model": "runs/small_30h/best",
+  "device": "cuda:0",
+  "dtype": "float16",
+  "n": 300,
+  "n_dropped_empty_ref": 0,
+  "audio_min": 28.97,
+  "decoding": {
+    "language": "hindi",
+    "task": "transcribe",
+    "max_new_tokens": 440,
+    "no_repeat_ngram_size": 5,
+    "batch_size": 8
+  },
+  "wer": 0.3833,
+  "cer": 0.3144,
+  "wer_romanized": 0.3755,
+  "cer_romanized": 0.2396,
+  "pred_script_share": {
+    "devanagari": 0.7167,
+    "latin": 0.2833
+  },
+  "ref_script_share": {
+    "devanagari": 0.7267,
+    "latin": 0.2733
+  },
+  "loop_share_pred": 0.0,
+  "loop_share_ref": 0.0,
+  "rtf": 0.1105
+}

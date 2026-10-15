@@ -1,0 +1,1 @@
+static variable का scope function के लिए local है जिसमें वो परिभाषित है

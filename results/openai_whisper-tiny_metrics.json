@@ -1,0 +1,32 @@
+{
+  "tag": "openai_whisper-tiny",
+  "model": "openai/whisper-tiny",
+  "device": "cuda:0",
+  "dtype": "float16",
+  "n": 300,
+  "n_dropped_empty_ref": 0,
+  "audio_min": 28.97,
+  "decoding": {
+    "language": "hindi",
+    "task": "transcribe",
+    "max_new_tokens": 440,
+    "batch_size": 8
+  },
+  "wer": 4.1146,
+  "cer": 3.5517,
+  "wer_romanized": 4.0431,
+  "cer_romanized": 3.0762,
+  "pred_script_share": {
+    "latin": 0.8667,
+    "devanagari": 0.09,
+    "empty": 0.0233,
+    "other": 0.02
+  },
+  "ref_script_share": {
+    "devanagari": 0.7267,
+    "latin": 0.2733
+  },
+  "loop_share_pred": 0.23,
+  "loop_share_ref": 0.0,
+  "rtf": 0.1052
+}

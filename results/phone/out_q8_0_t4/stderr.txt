@@ -1,0 +1,173 @@
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/478254_aVTioioyNUVPGF4t_0118.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/478254_aVTioioyNUVPGF4t_0118.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/957491_4xyIm2P6Xzlin341_0143.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/957491_4xyIm2P6Xzlin341_0143.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/508088_RRrEfkw4Rh5TdJkS_0102.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/508088_RRrEfkw4Rh5TdJkS_0102.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/118638_nJfFvNUB8tQkaGgp_0036.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/118638_nJfFvNUB8tQkaGgp_0036.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/360746_4oLp3bc9OSJbDrwM_0007.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/360746_4oLp3bc9OSJbDrwM_0007.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/610773_nImMxiSAAmCMR3yi_0075.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/610773_nImMxiSAAmCMR3yi_0075.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0085.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0085.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/508088_RRrEfkw4Rh5TdJkS_0038.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/508088_RRrEfkw4Rh5TdJkS_0038.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/408467_5baFeyjOxK8JQnNG_0009.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/408467_5baFeyjOxK8JQnNG_0009.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0047.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0047.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/478254_aVTioioyNUVPGF4t_0007.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/478254_aVTioioyNUVPGF4t_0007.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/656144_VU6OA7HUqTpQNtm2_0125.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/656144_VU6OA7HUqTpQNtm2_0125.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/323507_HgEJsLGKNWSFl8T7_0027.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/323507_HgEJsLGKNWSFl8T7_0027.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/610773_nImMxiSAAmCMR3yi_0048.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/610773_nImMxiSAAmCMR3yi_0048.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/146881_TkzR0GrQyK0vSTuj_0051.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/146881_TkzR0GrQyK0vSTuj_0051.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/388577_LPGZ2Jo8uBX4sx76_0035.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/388577_LPGZ2Jo8uBX4sx76_0035.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/146881_TkzR0GrQyK0vSTuj_0053.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/146881_TkzR0GrQyK0vSTuj_0053.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/957491_4xyIm2P6Xzlin341_0134.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/957491_4xyIm2P6Xzlin341_0134.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0033.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0033.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/791308_kGQKLyQ1HtnUNL1d_0043.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/791308_kGQKLyQ1HtnUNL1d_0043.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/347099_K5BlLYB9ynemLTVa_0042.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/347099_K5BlLYB9ynemLTVa_0042.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0076.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0076.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/921151_kvxzesc5pGxL6dnk_0032.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/921151_kvxzesc5pGxL6dnk_0032.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/656852_dNHXkqqVPqWYhzis_0059.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/656852_dNHXkqqVPqWYhzis_0059.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/161768_ZQC2TFqLsvNDq9bP_0014.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/161768_ZQC2TFqLsvNDq9bP_0014.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/408467_5baFeyjOxK8JQnNG_0037.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/408467_5baFeyjOxK8JQnNG_0037.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0049.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0049.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/957491_4xyIm2P6Xzlin341_0026.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/957491_4xyIm2P6Xzlin341_0026.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/133511_swLUjPHatcTk0wf8_0028.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/133511_swLUjPHatcTk0wf8_0028.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/847066_Bmcrju1ByfdrXE9P_0093.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/847066_Bmcrju1ByfdrXE9P_0093.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/453832_n3lwFhZkSdbJkOa0_0007.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/453832_n3lwFhZkSdbJkOa0_0007.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0028.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0028.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/656144_VU6OA7HUqTpQNtm2_0028.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/656144_VU6OA7HUqTpQNtm2_0028.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0057.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0057.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/453832_n3lwFhZkSdbJkOa0_0104.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/453832_n3lwFhZkSdbJkOa0_0104.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/521245_Psh5UDSFbhWLZ3gk_0055.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/521245_Psh5UDSFbhWLZ3gk_0055.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/408467_5baFeyjOxK8JQnNG_0062.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/408467_5baFeyjOxK8JQnNG_0062.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/791308_kGQKLyQ1HtnUNL1d_0013.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/791308_kGQKLyQ1HtnUNL1d_0013.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/834022_lHGLSlYIb1clRBRF_0006.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/834022_lHGLSlYIb1clRBRF_0006.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/318923_NhV290ew2hDJfVqc_0093.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/318923_NhV290ew2hDJfVqc_0093.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0158.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0158.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0048.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0048.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/521245_Psh5UDSFbhWLZ3gk_0090.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/521245_Psh5UDSFbhWLZ3gk_0090.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0030.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0030.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/360746_4oLp3bc9OSJbDrwM_0013.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/360746_4oLp3bc9OSJbDrwM_0013.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/124478_x8iijxWeCf26KNpC_0062.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/124478_x8iijxWeCf26KNpC_0062.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0142.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0142.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/103085_w5Jyq3XMbb3WwiKQ_0057.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/103085_w5Jyq3XMbb3WwiKQ_0057.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0027.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0027.wav.txt'
+read_audio_data: reading audio data from '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/921151_kvxzesc5pGxL6dnk_0091.wav' ...
+read_audio_data: trying to decode with miniaudio
+output_txt: saving output to '/data/data/com.termux/files/home/phone_kit/out_q8_0_t4/921151_kvxzesc5pGxL6dnk_0091.wav.txt'
+	Command being timed: "/data/data/com.termux/files/home/whisper.cpp/build/bin/whisper-cli -m /data/data/com.termux/files/home/phone_kit/ggml-base30h-q8_0.bin -l hi -t 4 -bs 1 -bo 1 -nf -nt -np -otxt -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/478254_aVTioioyNUVPGF4t_0118.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/957491_4xyIm2P6Xzlin341_0143.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/508088_RRrEfkw4Rh5TdJkS_0102.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/118638_nJfFvNUB8tQkaGgp_0036.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/360746_4oLp3bc9OSJbDrwM_0007.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/610773_nImMxiSAAmCMR3yi_0075.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0085.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/508088_RRrEfkw4Rh5TdJkS_0038.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/408467_5baFeyjOxK8JQnNG_0009.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0047.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/478254_aVTioioyNUVPGF4t_0007.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/656144_VU6OA7HUqTpQNtm2_0125.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/323507_HgEJsLGKNWSFl8T7_0027.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/610773_nImMxiSAAmCMR3yi_0048.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/146881_TkzR0GrQyK0vSTuj_0051.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/388577_LPGZ2Jo8uBX4sx76_0035.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/146881_TkzR0GrQyK0vSTuj_0053.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/957491_4xyIm2P6Xzlin341_0134.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0033.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/791308_kGQKLyQ1HtnUNL1d_0043.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/347099_K5BlLYB9ynemLTVa_0042.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0076.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/921151_kvxzesc5pGxL6dnk_0032.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/656852_dNHXkqqVPqWYhzis_0059.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/161768_ZQC2TFqLsvNDq9bP_0014.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/408467_5baFeyjOxK8JQnNG_0037.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0049.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/957491_4xyIm2P6Xzlin341_0026.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/133511_swLUjPHatcTk0wf8_0028.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/847066_Bmcrju1ByfdrXE9P_0093.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/453832_n3lwFhZkSdbJkOa0_0007.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0028.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/656144_VU6OA7HUqTpQNtm2_0028.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0057.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/453832_n3lwFhZkSdbJkOa0_0104.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/521245_Psh5UDSFbhWLZ3gk_0055.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/408467_5baFeyjOxK8JQnNG_0062.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/791308_kGQKLyQ1HtnUNL1d_0013.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/834022_lHGLSlYIb1clRBRF_0006.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/318923_NhV290ew2hDJfVqc_0093.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0158.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/598753_406yMKxIdSDHRf8H_0048.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/521245_Psh5UDSFbhWLZ3gk_0090.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0030.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/360746_4oLp3bc9OSJbDrwM_0013.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/124478_x8iijxWeCf26KNpC_0062.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/628028_K8YJLqIcMPJ5GftE_0142.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/103085_w5Jyq3XMbb3WwiKQ_0057.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/137494_fpL6MBSZsci9dyAn_0027.wav -f /data/data/com.termux/files/home/phone_kit/out_q8_0_t4/921151_kvxzesc5pGxL6dnk_0091.wav"
+	User time (seconds): 551.95
+	System time (seconds): 34.02
+	Percent of CPU this job got: 389%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:30.38
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 177412
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 174
+	Minor (reclaiming a frame) page faults: 83944
+	Voluntary context switches: 718
+	Involuntary context switches: 90659
+	Swaps: 0
+	File system inputs: 169760
+	File system outputs: 1136
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

@@ -1,0 +1,12 @@
+{
+  "model": "openai/whisper-small",
+  "train": "/kaggle/input/notebooks/adityapetkar2006/mucs-prep/mucs_prep/train_30h.jsonl",
+  "train_utts": 17793,
+  "train_hours": 30.0,
+  "steps": 2000,
+  "batch_size": 32,
+  "epochs": 3.6,
+  "lr": 1e-05,
+  "best_dev_wer": 0.2367,
+  "train_minutes": 149.1
+}

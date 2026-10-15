@@ -1,0 +1,7 @@
+device : samsung SM-M176B
+soc    : Samsung s5e8535 / erd8535
+android: 16
+cores  : 8
+ram    : 3.4 GB
+threads: 4
+model  : q5_0

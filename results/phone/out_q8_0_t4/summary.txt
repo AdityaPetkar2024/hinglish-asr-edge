@@ -1,0 +1,6 @@
+exit code   : 0
+audio       : 262.99 s
+wall time   : 150.432550316 s
+RTF         : .572   (below 1 = faster than real time)
+peak RAM    : 173 MB
+transcripts : 52

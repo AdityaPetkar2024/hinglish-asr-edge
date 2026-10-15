@@ -2,8 +2,8 @@
 
 I fine tuned Whisper for Hindi and English code switched speech, quantized it with whisper.cpp, and ran it **fully offline on a Samsung Galaxy M17**. Along the way I studied why standard WER is misleading for code mixed speech.
 
-**Demo video:** _(https://drive.google.com/file/d/1F19X8KvfLcE47qD5vv-T4ZYNJgqQMyy-/view?usp=sharing)_
-**Data:** MUCS 2021 subtask 2 (OpenSLR 104, CC BY-SA 4.0). No audio is redistributed in this repo.
+- **Demo video (phone in airplane mode):** [watch on Google Drive](https://drive.google.com/file/d/1F19X8KvfLcE47qD5vv-T4ZYNJgqQMyy-/view?usp=sharing)
+- **Data:** MUCS 2021 subtask 2 (OpenSLR 104, CC BY-SA 4.0). No audio is redistributed in this repo.
 
 ## Headline results
 
@@ -169,5 +169,6 @@ Before and after fine tuning (stock whisper-base vs the fine tuned base model tr
 | `setup_edge.sh`, `eval_cpp.py` | Laptop | Builds whisper.cpp, converts and quantizes the model, scores each version |
 | `make_phone_kit.sh`, `run_phone.sh`, `compare_phone.py` | Laptop and phone | Phone benchmark and demo |
 | `listen_check.sh` | Laptop | Guided listening check of flagged clips |
+| `inspect_data.py` | Anywhere | First look at the raw test set |
 
 **Credits:** dataset MUCS 2021 (OpenSLR SLR104, CC BY-SA 4.0); models OpenAI Whisper (MIT); inference engine whisper.cpp (MIT).

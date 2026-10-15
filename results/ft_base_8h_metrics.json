@@ -1,0 +1,30 @@
+{
+  "tag": "ft_base_8h",
+  "model": "runs/base_8h/best",
+  "device": "cuda:0",
+  "dtype": "float16",
+  "n": 300,
+  "n_dropped_empty_ref": 0,
+  "audio_min": 28.97,
+  "decoding": {
+    "language": "hindi",
+    "task": "transcribe",
+    "max_new_tokens": 440,
+    "batch_size": 8
+  },
+  "wer": 0.4258,
+  "cer": 0.3292,
+  "wer_romanized": 0.4171,
+  "cer_romanized": 0.2561,
+  "pred_script_share": {
+    "devanagari": 0.7067,
+    "latin": 0.2933
+  },
+  "ref_script_share": {
+    "devanagari": 0.7267,
+    "latin": 0.2733
+  },
+  "loop_share_pred": 0.0033,
+  "loop_share_ref": 0.0,
+  "rtf": 0.0402
+}

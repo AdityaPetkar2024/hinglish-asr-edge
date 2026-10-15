@@ -1,0 +1,1 @@
+यहाँ हम अपने operating system के रूप में gnu/linux और libreoffice version 334 का उपयोग कर रहे हैं

@@ -1,0 +1,12 @@
+{
+  "model": "openai/whisper-base",
+  "train": "/kaggle/input/notebooks/adityapetkar2006/mucs-prep/mucs_prep/train_8h.jsonl",
+  "train_utts": 4692,
+  "train_hours": 8.0,
+  "steps": 2000,
+  "batch_size": 32,
+  "epochs": 13.64,
+  "lr": 2.5e-05,
+  "best_dev_wer": 0.3219,
+  "train_minutes": 41.0
+}

@@ -1,0 +1,33 @@
+{
+  "tag": "whisper-base_nrng5",
+  "model": "openai/whisper-base",
+  "device": "cuda:0",
+  "dtype": "float16",
+  "n": 300,
+  "n_dropped_empty_ref": 0,
+  "audio_min": 28.97,
+  "decoding": {
+    "language": "hindi",
+    "task": "transcribe",
+    "max_new_tokens": 440,
+    "no_repeat_ngram_size": 5,
+    "batch_size": 8
+  },
+  "wer": 1.0255,
+  "cer": 0.7843,
+  "wer_romanized": 0.9633,
+  "cer_romanized": 0.6653,
+  "pred_script_share": {
+    "latin": 0.6133,
+    "arabic": 0.24,
+    "devanagari": 0.13,
+    "empty": 0.0167
+  },
+  "ref_script_share": {
+    "devanagari": 0.7267,
+    "latin": 0.2733
+  },
+  "loop_share_pred": 0.0067,
+  "loop_share_ref": 0.0,
+  "rtf": 0.0383
+}
