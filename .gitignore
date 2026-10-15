@@ -1,0 +1,16 @@
+data/
+models/
+phone_kit/
+phone_kit.tar
+whisper.cpp/
+openai-whisper/
+venv/
+.venv/
+__pycache__/
+*.wav
+*.tar
+*.tgz
+*.zip
+*.bin
+*.safetensors
+listen.txt

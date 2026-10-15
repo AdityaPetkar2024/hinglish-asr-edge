@@ -1,0 +1,21 @@
+{
+  "tag": "cpp_base30h_q5_0_fb",
+  "model": "models/ggml-base30h-q5_0.bin",
+  "engine": "whisper.cpp",
+  "threads": 4,
+  "decoding": "greedy + temperature fallback",
+  "model_mb": 52.7,
+  "n": 300,
+  "wer": 0.4218,
+  "cer": 0.3309,
+  "wer_romanized": 0.4171,
+  "cer_romanized": 0.2651,
+  "pred_script_share": {
+    "devanagari": 0.7067,
+    "latin": 0.2933
+  },
+  "loop_share_pred": 0.0,
+  "empty_preds": 0,
+  "rtf": 0.4243,
+  "peak_ram_mb": 155.6
+}

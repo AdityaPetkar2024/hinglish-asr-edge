@@ -1,0 +1,20 @@
+{
+  "tag": "cpp_base30h_f16",
+  "model": "models/ggml-base30h-f16.bin",
+  "engine": "whisper.cpp",
+  "threads": 4,
+  "model_mb": 141.1,
+  "n": 300,
+  "wer": 0.4721,
+  "cer": 0.3638,
+  "wer_romanized": 0.4657,
+  "cer_romanized": 0.3035,
+  "pred_script_share": {
+    "devanagari": 0.6933,
+    "latin": 0.3067
+  },
+  "loop_share_pred": 0.0133,
+  "empty_preds": 0,
+  "rtf": 0.5393,
+  "peak_ram_mb": 246.7
+}

@@ -1,0 +1,335 @@
+{
+  "systems": {
+    "openai_whisper-base": {
+      "wer": 3.9664,
+      "wer_ci95": [
+        3.2486,
+        4.777
+      ],
+      "cer": 3.786,
+      "cer_ci95": [
+        3.1185,
+        4.5353
+      ],
+      "ta_wer": 3.9121,
+      "ta_wer_ci95": [
+        3.1911,
+        4.7246
+      ],
+      "errors_per_ref_word": {
+        "sub": 0.6699,
+        "xs": 0.0544,
+        "ins": 3.0573,
+        "del": 0.1848
+      },
+      "share_of_errors": {
+        "cross_script": 0.0137,
+        "insertions": 0.7708,
+        "in_looping_utts": 0.7577
+      },
+      "looping_utts": 86,
+      "ref_words": 3457
+    },
+    "openai_whisper-small": {
+      "wer": 2.2089,
+      "wer_ci95": [
+        1.9007,
+        2.5584
+      ],
+      "cer": 2.1829,
+      "cer_ci95": [
+        1.8858,
+        2.4992
+      ],
+      "ta_wer": 2.1198,
+      "ta_wer_ci95": [
+        1.8091,
+        2.474
+      ],
+      "errors_per_ref_word": {
+        "sub": 0.5091,
+        "xs": 0.0891,
+        "ins": 1.4981,
+        "del": 0.1125
+      },
+      "share_of_errors": {
+        "cross_script": 0.0403,
+        "insertions": 0.6782,
+        "in_looping_utts": 0.728
+      },
+      "looping_utts": 103,
+      "ref_words": 3457
+    },
+    "openai_whisper-tiny": {
+      "wer": 4.1146,
+      "wer_ci95": [
+        3.2853,
+        4.9555
+      ],
+      "cer": 3.5517,
+      "cer_ci95": [
+        2.8238,
+        4.3465
+      ],
+      "ta_wer": 4.0538,
+      "ta_wer_ci95": [
+        3.2197,
+        4.8969
+      ],
+      "errors_per_ref_word": {
+        "sub": 0.6838,
+        "xs": 0.0607,
+        "ins": 3.208,
+        "del": 0.162
+      },
+      "share_of_errors": {
+        "cross_script": 0.0148,
+        "insertions": 0.7797,
+        "in_looping_utts": 0.7795
+      },
+      "looping_utts": 68,
+      "ref_words": 3457
+    },
+    "whisper-base_nrng5": {
+      "wer": 1.0255,
+      "wer_ci95": [
+        0.9737,
+        1.0903
+      ],
+      "cer": 0.7843,
+      "cer_ci95": [
+        0.7577,
+        0.8119
+      ],
+      "ta_wer": 0.9682,
+      "ta_wer_ci95": [
+        0.9115,
+        1.0363
+      ],
+      "errors_per_ref_word": {
+        "sub": 0.6624,
+        "xs": 0.0573,
+        "ins": 0.1258,
+        "del": 0.1799
+      },
+      "share_of_errors": {
+        "cross_script": 0.0559,
+        "insertions": 0.1227,
+        "in_looping_utts": 0.0017
+      },
+      "looping_utts": 1,
+      "ref_words": 3457
+    },
+    "ft_base_30h_nrng5": {
+      "wer": 0.3969,
+      "wer_ci95": [
+        0.3619,
+        0.4317
+      ],
+      "cer": 0.3187,
+      "cer_ci95": [
+        0.2878,
+        0.3503
+      ],
+      "ta_wer": 0.3408,
+      "ta_wer_ci95": [
+        0.3036,
+        0.3774
+      ],
+      "errors_per_ref_word": {
+        "sub": 0.1805,
+        "xs": 0.0561,
+        "ins": 0.0347,
+        "del": 0.1255
+      },
+      "share_of_errors": {
+        "cross_script": 0.1414,
+        "insertions": 0.0875,
+        "in_looping_utts": 0.0
+      },
+      "looping_utts": 0,
+      "ref_words": 3457
+    },
+    "ft_base_30h": {
+      "wer": 0.3894,
+      "wer_ci95": [
+        0.3495,
+        0.4342
+      ],
+      "cer": 0.3158,
+      "cer_ci95": [
+        0.2777,
+        0.3589
+      ],
+      "ta_wer": 0.3347,
+      "ta_wer_ci95": [
+        0.2932,
+        0.3797
+      ],
+      "errors_per_ref_word": {
+        "sub": 0.1866,
+        "xs": 0.0547,
+        "ins": 0.0448,
+        "del": 0.1033
+      },
+      "share_of_errors": {
+        "cross_script": 0.1404,
+        "insertions": 0.1152,
+        "in_looping_utts": 0.0
+      },
+      "looping_utts": 0,
+      "ref_words": 3457
+    },
+    "ft_base_8h_nrng5": {
+      "wer": 0.4267,
+      "wer_ci95": [
+        0.3888,
+        0.4654
+      ],
+      "cer": 0.3198,
+      "cer_ci95": [
+        0.2886,
+        0.3532
+      ],
+      "ta_wer": 0.376,
+      "ta_wer_ci95": [
+        0.3368,
+        0.4164
+      ],
+      "errors_per_ref_word": {
+        "sub": 0.2271,
+        "xs": 0.0506,
+        "ins": 0.0515,
+        "del": 0.0975
+      },
+      "share_of_errors": {
+        "cross_script": 0.1186,
+        "insertions": 0.1207,
+        "in_looping_utts": 0.0
+      },
+      "looping_utts": 0,
+      "ref_words": 3457
+    },
+    "ft_base_8h": {
+      "wer": 0.4258,
+      "wer_ci95": [
+        0.3879,
+        0.468
+      ],
+      "cer": 0.3292,
+      "cer_ci95": [
+        0.2959,
+        0.367
+      ],
+      "ta_wer": 0.3708,
+      "ta_wer_ci95": [
+        0.3311,
+        0.4139
+      ],
+      "errors_per_ref_word": {
+        "sub": 0.2149,
+        "xs": 0.055,
+        "ins": 0.0605,
+        "del": 0.0955
+      },
+      "share_of_errors": {
+        "cross_script": 0.1291,
+        "insertions": 0.142,
+        "in_looping_utts": 0.0143
+      },
+      "looping_utts": 1,
+      "ref_words": 3457
+    },
+    "ft_small_30h_nrng5": {
+      "wer": 0.3833,
+      "wer_ci95": [
+        0.3472,
+        0.4204
+      ],
+      "cer": 0.3144,
+      "cer_ci95": [
+        0.2842,
+        0.3473
+      ],
+      "ta_wer": 0.3191,
+      "ta_wer_ci95": [
+        0.2816,
+        0.3586
+      ],
+      "errors_per_ref_word": {
+        "sub": 0.1701,
+        "xs": 0.0642,
+        "ins": 0.0283,
+        "del": 0.1206
+      },
+      "share_of_errors": {
+        "cross_script": 0.1675,
+        "insertions": 0.074,
+        "in_looping_utts": 0.0
+      },
+      "looping_utts": 0,
+      "ref_words": 3457
+    },
+    "ft_small_30h": {
+      "wer": 0.3969,
+      "wer_ci95": [
+        0.3433,
+        0.4601
+      ],
+      "cer": 0.3396,
+      "cer_ci95": [
+        0.2843,
+        0.411
+      ],
+      "ta_wer": 0.335,
+      "ta_wer_ci95": [
+        0.2827,
+        0.3992
+      ],
+      "errors_per_ref_word": {
+        "sub": 0.1637,
+        "xs": 0.0619,
+        "ins": 0.0622,
+        "del": 0.1091
+      },
+      "share_of_errors": {
+        "cross_script": 0.156,
+        "insertions": 0.1567,
+        "in_looping_utts": 0.0816
+      },
+      "looping_utts": 2,
+      "ref_words": 3457
+    }
+  },
+  "paired_differences": {
+    "ft_base_30h - ft_small_30h": {
+      "diff": -0.0075,
+      "ci95": [
+        -0.0646,
+        0.0369
+      ]
+    },
+    "ft_base_8h - ft_base_30h": {
+      "diff": 0.0364,
+      "ci95": [
+        0.0087,
+        0.0625
+      ]
+    },
+    "whisper-base_nrng5 - ft_base_30h": {
+      "diff": 0.6361,
+      "ci95": [
+        0.5661,
+        0.7132
+      ]
+    },
+    "openai_whisper-base - whisper-base_nrng5": {
+      "diff": 2.9409,
+      "ci95": [
+        2.2336,
+        3.7348
+      ]
+    }
+  },
+  "n_utts": 300
+}
